@@ -86,7 +86,7 @@ const HomePage = () => {
       </div>
 
       {/* Footer */}
-      <div className="footer">@ copyright E-Commerce</div>
+      <div className="footer">@ copyright E-Commerce-klu</div>
     </div>
   );
 };
